@@ -1,5 +1,5 @@
 # What is it?
-A Scala version of git@github.com:swlaschin/DomainModelingMadeFunctional.git
+A Scala version of https://github.com/swlaschin/DomainModelingMadeFunctional
 Some more flavors will come. Plan is to use idiomatic Scala version as opposed to F# in Scala.
 Next thing to come is to use `ZLayer` instead of curried functions DI.
 
