@@ -1,0 +1,8 @@
+# gitignore file for build related files, not for developer's tools files, see: https://git-scm.com/docs/gitignore
+target/
+project/target
+*.class
+*.log
+# no decoded yaml secrets
+helm/**/secrets/**/*.dec.yaml
+neo.properties
